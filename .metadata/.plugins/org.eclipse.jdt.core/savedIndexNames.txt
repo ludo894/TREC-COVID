@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+/home/ludo/TREC-COVID19/Covid_IR_System/LuceneQE/.metadata/.plugins/org.eclipse.jdt.core
+1475088868.index
+3136335394.index
+3949366491.index
+3955800976.index
+3859245714.index
+3763471101.index
+493305288.index
+4186210106.index
+1266573936.index
+2426855408.index
+2762175749.index
+3857779320.index
+771745428.index
+1135401238.index

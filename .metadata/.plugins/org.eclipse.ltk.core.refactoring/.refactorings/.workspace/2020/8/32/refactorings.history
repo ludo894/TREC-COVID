@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;Lucene_BM25/src/luceneStructure&apos;&#x0A;- Destination element: &apos;Lucene_BM25/src/luceneStructure&apos;" description="Copy compilation units" destination="=Lucene_BM25/src&lt;luceneStructure" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1596633692371" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;luceneStructure.ResultWriter&apos; to &apos;ExpandedQueryWriter&apos;&#x0A;- Original project: &apos;Lucene.3.6_BM25&apos;&#x0A;- Original element: &apos;luceneStructure.ResultWriter&apos;&#x0A;- Renamed element: &apos;luceneStructure.ExpandedQueryWriter&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ResultWriter&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;luceneStructure{ResultWriter.java[ResultWriter" matchStrategy="1" name="ExpandedQueryWriter" qualified="false" references="true" similarDeclarations="false" stamp="1597402334816" textual="false" version="1.0"/>
+</session>

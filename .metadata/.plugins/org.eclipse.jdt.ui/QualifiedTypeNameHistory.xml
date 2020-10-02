@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.lucene.document.Field.TermVector"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.document.Field.Index"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.analysis.Analyzer"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.analysis.en.EnglishAnalyzer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="luceneStructure.TextFileFilter"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.util.Version"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.analysis.standard.StandardTokenizer"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.IndexWriterConfig"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.document.FieldType"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.queryparser.classic.ParseException"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.document.StringField"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.document.TextField"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.document.Field.Store"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="java.nio.file.Path"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.DirectoryReader"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.search.similarities.TFIDFSimilarity"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.search.similarities.ClassicSimilarity"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.search.similarities.Similarity"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.queryparser.classic.QueryParser"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.search.similarities.BM25Similarity"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.IndexReader"/>
+    <fullyQualifiedTypeName name="luceneStructure.LuceneConstants"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.util.BytesRef"/>
+</qualifiedTypeNameHistroy>

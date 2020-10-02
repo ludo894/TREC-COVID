@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;luceneStructure.RelevantTerms&apos; to &apos;RelevantDocs&apos;&#x0A;- Original project: &apos;Lucene_SelectiveQE&apos;&#x0A;- Original element: &apos;luceneStructure.RelevantTerms&apos;&#x0A;- Renamed element: &apos;luceneStructure.RelevantDocs&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RelevantTerms&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;luceneStructure{RelevantTerms.java[RelevantTerms" matchStrategy="1" name="RelevantDocs" qualified="false" references="true" similarDeclarations="false" stamp="1595944239586" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Lucene_W2V_COV/src&apos;&#x0A;- Original project: &apos;Lucene_Word2Vec&apos;&#x0A;- Destination element: &apos;Lucene_W2V_COV/src&apos;&#x0A;- Original elements:&#x0A;     Lucene_Word2Vec/src/luceneStructure&#x0A;     Lucene_Word2Vec/src/synonymsDB" description="Copy packages" destination="=Lucene_W2V_COV/src" element1="/src&lt;luceneStructure" element2="/src&lt;synonymsDB" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1597137144187" version="1.0"/>
+</session>

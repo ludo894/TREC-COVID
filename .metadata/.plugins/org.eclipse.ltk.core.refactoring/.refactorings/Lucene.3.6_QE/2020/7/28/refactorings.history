@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;luceneStructure&apos; to &apos;Lucene.3.6_QE_English/src&apos;&#x0A;- Original project: &apos;Lucene.3.6_QE&apos;&#x0A;- Destination element: &apos;Lucene.3.6_QE_English/src&apos;&#x0A;- Original element: &apos;Lucene.3.6_QE/src/luceneStructure&apos;" description="Copy package" destination="=Lucene.3.6_QE_English/src" element1="/src&lt;luceneStructure" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1594301036007" version="1.0"/>
+</session>

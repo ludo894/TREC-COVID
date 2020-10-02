@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Lucene.3.6_QE_English&apos;&#x0A;- Original project: &apos;Lucene.3.6_QE_English&apos;&#x0A;- Original element: &apos;Lucene.3.6_QE_English/src/src.luceneStructure&apos;" description="Delete element" element1="/src&lt;src.luceneStructure" element2="/src&lt;src" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1594301009546" subPackages="false" version="1.0"/>
+</session>

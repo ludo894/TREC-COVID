@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StopWords.java&apos; to &apos;Lucene_SelectiveQE/src/luceneStructure&apos;&#x0A;- Original project: &apos;Lucene_Word2Vec&apos;&#x0A;- Destination element: &apos;Lucene_SelectiveQE/src/luceneStructure&apos;&#x0A;- Original element: &apos;luceneStructure.StopWords.java&apos;" description="Copy compilation unit" destination="=Lucene_SelectiveQE/src&lt;luceneStructure" element1="/src&lt;luceneStructure{StopWords.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1595864377455" units="1" version="1.0"/>
+</session>
