@@ -1,0 +1,7 @@
+	-> Lucene.3.6_BM25/ system that generates expanded queries for BM25 standard system
+	-> Lucene.3.6_QE/ standard system with pseudo relevant feedback module
+	-> Lucene.3.6_QE_English/ standard system with an English analyzer
+	-> Lucene_BM25/ standard BM25 system
+	-> Lucene_SelectiveQE/ system implementing explicit feedback query expansion
+	-> Lucene_W2V_COV/ system implementing word embedding query expansion with Word2Vec trained with the TREC-COVID data set
+	-> Lucene_Word2Vec/ system implementing word embedding query expansion with Word2Vec trained with the google default training data set
